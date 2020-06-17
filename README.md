@@ -35,6 +35,6 @@ for(J.CompilationUnit cu : cus) {
 
 ### Supported checks
 
-The list of currently supported checks is [here](https://github.com/openrewrite/rewrite-checkstyle/tree/master/src/main/java/org/openrewrite/checkstyle/check). Submit an issue to add support for additional checks. Even better, submit a PR!
+The list of currently supported checks is [here](https://github.com/openrewrite/rewrite-checkstyle/tree/master/src/main/java/org/openrewrite/checkstyle). Submit an issue to add support for additional checks. Even better, submit a PR!
 
-This project also contains a [`Main`](https://github.com/openrewrite/rewrite-checkstyle/blob/master/src/main/java/org/openrewrite/checkstyle/Main.java) class with a number of options that can be used to fix a project's source based on a checkstyle configuration file.
+This project also contains a [`Main`](https://github.com/openrewrite/rewrite-checkstyle/blob/master/Main.java) class with a number of options that can be used to fix a project's source based on a checkstyle configuration file.
